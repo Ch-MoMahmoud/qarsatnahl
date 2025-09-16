@@ -15,10 +15,10 @@
   --muted: #6b7280;
   --white: #fff;
   /* unified animation tokens */
-  --anim-duration: 2.2s; /* much slower global animation */
+  --anim-duration: 1.5s; /* much slower global animation */
   --anim-ease: cubic-bezier(.16,.84,.24,1); /* smoother ease */
   /* floating label tokens */
-  --label-anim-duration: 1s; /* much slower floating label */
+  --label-anim-duration: 0.8s; /* much slower floating label */
   --label-anim-ease: cubic-bezier(.5, 1, .25, 1.8); /* slight pull/settle feel */
 }
 
